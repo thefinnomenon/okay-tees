@@ -16,6 +16,7 @@
 		B604CDCB2049A979007F9176 /* CategoryCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B604CDCA2049A979007F9176 /* CategoryCell.swift */; };
 		B604CDCD2049C39B007F9176 /* Category.swift in Sources */ = {isa = PBXBuildFile; fileRef = B604CDCC2049C39B007F9176 /* Category.swift */; };
 		B604CDD02049C614007F9176 /* DataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = B604CDCF2049C614007F9176 /* DataService.swift */; };
+		B604CDD22049D78D007F9176 /* ProductCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B604CDD12049D78D007F9176 /* ProductCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		B604CDCA2049A979007F9176 /* CategoryCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryCell.swift; sourceTree = "<group>"; };
 		B604CDCC2049C39B007F9176 /* Category.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Category.swift; sourceTree = "<group>"; };
 		B604CDCF2049C614007F9176 /* DataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataService.swift; sourceTree = "<group>"; };
+		B604CDD12049D78D007F9176 /* ProductCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +90,7 @@
 			children = (
 				B604CDC82049A72C007F9176 /* FixedImageNavigationItem.swift */,
 				B604CDCA2049A979007F9176 /* CategoryCell.swift */,
+				B604CDD12049D78D007F9176 /* ProductCell.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -185,6 +188,7 @@
 				B604CDB620499C9F007F9176 /* CategoriesVC.swift in Sources */,
 				B604CDD02049C614007F9176 /* DataService.swift in Sources */,
 				B604CDB420499C9F007F9176 /* AppDelegate.swift in Sources */,
+				B604CDD22049D78D007F9176 /* ProductCell.swift in Sources */,
 				B604CDCB2049A979007F9176 /* CategoryCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
